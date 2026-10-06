@@ -12,6 +12,9 @@
 
 <br/>
 
+<a href="https://ssrid111.github.io/portfolio/">
+  <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=githubpages&logoColor=white" alt="View my portfolio" />
+</a>
 <a href="https://www.linkedin.com/in/swetha-sridharan28">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -25,6 +28,8 @@
 </div>
 
 ---
+
+**[Explore my portfolio →](https://ssrid111.github.io/portfolio/)** — Projects, experience, patents, research, and résumé.
 
 ## About Me
 
