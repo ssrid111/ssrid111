@@ -29,8 +29,6 @@
 
 ---
 
-**[Explore my portfolio →](https://ssrid111.github.io/portfolio/)** — Projects, experience, patents, research, and résumé.
-
 ## About Me
 
 Software Engineering graduate student at Arizona State University with experience in **full-stack development, machine learning, and data analytics systems**.
